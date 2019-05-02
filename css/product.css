@@ -1,0 +1,43 @@
+body
+{
+	background-color: pink;
+}
+.home
+{
+	margin-left: 125px;
+	color: blue;
+}
+.product
+{
+	margin-left: 50px;
+	color: blue;
+}
+.contact
+{
+	margin-left: 50px;
+	color: blue;
+}
+#height1
+{
+	height: 350px;
+}
+#height2
+{
+	height: 350px;
+}
+#height3
+{
+	height: 350px;
+}
+.div1
+{
+	margin-left: 50px;
+}
+.div2
+{
+	margin-left: 45px;
+}
+.div3
+{
+	margin-left: 35px;
+}

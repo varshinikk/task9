@@ -1,0 +1,59 @@
+body
+{
+	background-color: rgb(171, 235, 198);
+}
+.home
+{
+	margin-left: 125px;
+	color: blue;
+}
+.product
+{
+	margin-left: 50px;
+	color: blue;
+}
+.contact
+{
+	margin-left: 50px;
+	color: blue;
+}
+div
+{
+  width: 475px;
+  height: 360px;
+  margin-left: 300px;
+  margin-top: 40px;
+  border-radius: 40px;
+  background-color: yellow;
+}
+.div1
+{
+	margin-left: 52px;
+    margin-top: 40px;
+     color:red;
+}
+.div2
+{
+margin: 33px;
+    margin-left: 52px;
+    width: 366px;
+     color:red;
+}
+.div3
+{
+margin-top: 1;
+    margin-left: 102px;
+     color:red;
+}
+.div4
+{
+    padding: 7px;
+    width: 131px;
+    margin: 35px;
+    margin-left: 157px;
+     color:red;
+}
+.div5
+{
+	color:red;
+}
